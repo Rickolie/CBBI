@@ -6,3 +6,4 @@ pyfiglet==0.8.post1
 fire==0.4.0
 cli_ui==0.14.0
 scikit_learn==0.24.2
+matplotlib==3.4.1
